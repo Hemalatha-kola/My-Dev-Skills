@@ -15,3 +15,15 @@ h1{
   font-size: 40px;
   justify-content: center;
 }
+.delete-form {
+  display: inline-block;
+  margin-right: 10px;
+}
+	
+.delete-form button {
+  color: red;
+}
+	
+li {
+  list-style: none;
+}

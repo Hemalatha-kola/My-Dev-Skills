@@ -1,8 +1,17 @@
 body {
+  display:flex;
+  flex-direction: column;
+  justify-items: center;
   padding: 50px;
   font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  background-color: cadetblue;
+
 }
 
 a {
-  color: #00B7FF;
+  color: red;
+}
+h1{
+  font-size: 40px;
+  justify-content: center;
 }
